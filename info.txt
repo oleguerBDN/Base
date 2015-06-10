@@ -1,0 +1,2 @@
+Tenim dues branques, la de Android i l'altre d'Html5. 
+Si es vol editar qualsevol fitxer cal actualitzar el fitcer version de la branca corresponent.
